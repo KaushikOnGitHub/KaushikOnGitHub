@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://kaushikongithub.github.io/Kaushik-Portfolio/](https://kaushikongithub.github.io/Kaushik-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://Kaushik-Portfolio.github.io/](https://kaushikongithub.github.io/Kaushik-Portfolio/)
 
 - 💬 Ask me about ** Data Analytics & FullStacks Developement **
 
 - 📫 How to reach me **coolkaushiksolanki5@gmail.com**
 
-- 📄 Know about my experiences [https://Kaushik's resume](https://drive.google.com/file/d/1aRQ8V_QQofKJZyX6zc9tVUe-tvjXg0mr/view?usp=sharing)
+- 📄 Know about my experiences [https://Kaushik - resume](https://drive.google.com/file/d/1aRQ8V_QQofKJZyX6zc9tVUe-tvjXg0mr/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
