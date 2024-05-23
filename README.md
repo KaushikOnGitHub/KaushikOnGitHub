@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kaushik-solanki-990820123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaushik-solanki-990820123" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/hentai_fuck_the_senpai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/hentai_fuck_the_senpai/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/hentai_fuck_the_senpai/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Instagram_Glyph_Gradient_RGB_logo.svg" alt="https://www.instagram.com/hentai_fuck_the_senpai/" height="30" width="40" /></a>
 
 </p>
 
