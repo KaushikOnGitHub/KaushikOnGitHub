@@ -17,11 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [https://Kaushik-Portfolio.github.io/](https://kaushikongithub.github.io/Kaushik-Portfolio/)
 
+- 📊 My Tableau Public profile [https://public.tableau.com/kaushik.solanki](https://public.tableau.com/app/profile/kaushik.solanki/vizzes)
+
 - 💬 Ask me about ** Data Analytics & FullStacks Developement **
 
 - 📫 How to reach me **coolkaushiksolanki5@gmail.com**
 
-- 📄 Know about my experiences [https://Kaushik - resume](https://drive.google.com/file/d/1aRQ8V_QQofKJZyX6zc9tVUe-tvjXg0mr/view?usp=sharing)
+- 📄 Know about my experiences [https://Kaushik - resume.pdf](https://drive.google.com/file/d/1aRQ8V_QQofKJZyX6zc9tVUe-tvjXg0mr/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
