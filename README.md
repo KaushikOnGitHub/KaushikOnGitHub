@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikongithub&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikongithub" /> </p>
 
-<br>
+<br><br><br>
 
 - 🌱 I’m currently learning **Machine Learning**
 
