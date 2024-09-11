@@ -8,7 +8,7 @@
 
 <br><br><br>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  alt="Code" width="500" align="left">  &nbsp
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  alt="Code" width="500" align="left">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikongithub&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikongithub" /> </p>
