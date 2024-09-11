@@ -11,6 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikongithub&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikongithub" /> </p>
 
+<br><br><br
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://Kaushik-Portfolio.github.io/](https://kaushikongithub.github.io/Kaushik-Portfolio/)
@@ -25,7 +27,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-  <p>
+  <p> <br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
