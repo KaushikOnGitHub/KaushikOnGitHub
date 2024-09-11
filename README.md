@@ -1,16 +1,13 @@
 
 ![HeaderMaster](https://vinyl.lofirecords.com/cdn/shop/t/9/assets/lofiboy.gif?v=103461765217895835051680702279) 
 
-<br>
 
 <h1 align="center">Hi 👋, I'm Kaushik Solanki</h1> 
 <h3 align="center">A passionate Software Engineer & Data Scientist from India</h3>
 
-<br>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  alt="Code" width="500" align="left">
 
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikongithub&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikongithub" /> </p>
 
@@ -28,9 +25,9 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-  <p> <br>
+  <p>
 
-<br><br><h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kaushik-solanki-990820123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaushik-solanki-990820123" height="30" width="40" /></a>
   <a href="https://www.instagram.com/hentai_fuck_the_senpai/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Instagram_Glyph_Gradient_RGB_logo.svg" alt="https://www.instagram.com/hentai_fuck_the_senpai/" height="30" width="40" /></a>
