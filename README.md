@@ -1,12 +1,12 @@
 
 ![HeaderMaster](https://vinyl.lofirecords.com/cdn/shop/t/9/assets/lofiboy.gif?v=103461765217895835051680702279) 
 
-<br><br><br>
+<br><br><br><br>
 
 <h1 align="center">Hi 👋, I'm Kaushik Solanki</h1> 
 <h3 align="center">A passionate Software Engineer & Data Scientist from India</h3>
 
-<br><br><br>
+<br><br><br><br>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  alt="Code" width="500" align="left"> 
 
