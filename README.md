@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://Kaushik-Portfolio.github.io/](https://kaushikongithub.github.io/Kaushik-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://kaushikportfuhhh.web.app/](https://kaushikportfuhhh.web.app/)
 
 - 📊 My Tableau Public profile [https://public.tableau.com/kaushik.solanki](https://public.tableau.com/app/profile/kaushik.solanki/vizzes)
 
